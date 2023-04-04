@@ -1,0 +1,17 @@
+swig
+gym==0.23.1
+stable_baselines3
+# ==1.4.0
+numpy==1.22.3
+# Box2D
+pyglet==1.5.27
+# skrl
+notebook
+# box2d box2d-kengzpip install gymnasium[box2d]`
+
+
+# pip install "gymnasium[all]"
+# pip install "stable-baselines3[extra]"
+# brew install swig
+# pip install box2d-py
+# pip install box2d
